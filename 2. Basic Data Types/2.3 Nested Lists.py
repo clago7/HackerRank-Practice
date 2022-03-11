@@ -1,4 +1,5 @@
 # Problem: https://www.hackerrank.com/challenges/nested-list/problem
+
 records, sorted_scores = [], []
 while True:
     for _ in range(int(input('Enter total number of students: '))):
