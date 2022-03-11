@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.hackerrank.com/clago7"><img src="https://miro.medium.com/max/1400/1*UGT1Rh9xLww3JeIDR1F0RQ.png" ></a></p>
+<p align="center"><a href="https://www.hackerrank.com/clago"><img src="https://miro.medium.com/max/1400/1*UGT1Rh9xLww3JeIDR1F0RQ.png" ></a></p>
 
 # HackerRank Preparation Submissions
 This repository contains my personal submissions to HackerRank Preparation Challenges.
