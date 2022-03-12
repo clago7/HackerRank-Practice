@@ -1,6 +1,6 @@
 # Problem: https://www.hackerrank.com/challenges/python-lists/problem
 
-def lister(result):
+def list_handler(result):
     line = input().split()
     command = line[0]
     values = line[1:]
@@ -12,4 +12,4 @@ def lister(result):
 
 result = []
 for i in range(int(input())):
-    lister(result)
+    list_handler(result)
