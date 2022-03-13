@@ -14,7 +14,7 @@ def print_rangoli(size):
         print(string[0])
     else: print(side_str+'-'+string[0]+'-'+side_str[::-1]) 
     
-    # lower
+    # lower half
     for i in range(size-1):
         center_str = side_l.pop()
         side_str = '-'.join(side_l)
